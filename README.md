@@ -8,6 +8,8 @@
 
 
 - Mình là sinh viên khóa 28 của trường Huflit
+- Hoàng Đình Phương Quang
+- Thứ 3 ca 3
 - 💬 Ask me about **android**
 - 📫 How to reach me: **him625526@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
