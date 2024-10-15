@@ -1,4 +1,4 @@
-<img align="right" alt="Wallpaper" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsZGoycmJ1NGU1bDZ1aHgwdzR1bG01bjd2dDJob3htNWNrZnVoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fcoding-background&psig=AOvVaw0_6LHCivyOo9npNvvr5SgE&ust=1729063433132000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDB16_tj4kDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Wallpaper" width="400" src="https://wallpapers.com/images/high/coding-background-9izlympnd0ovmpli.webp">
 <h1 align="center">Hi 👋, I'm Wang</h1>
 <h3 align="center">A passionate frontend developer from VietnamVietnam</h3>
 
