@@ -1,4 +1,5 @@
-<img align="right" alt="Wallpaper" width="400" src="https://wallpapers.com/images/high/coding-background-9izlympnd0ovmpli.webp">
+<img align="Top" alt="Wallpaper" width="400" src="https://wallpapers.com/images/high/coding-background-9izlympnd0ovmpli.webp">
+
 <h1 align="center">Hi 👋, I'm Wang</h1>
 <h3 align="center">A passionate frontend developer from VietnamVietnam</h3>
 
