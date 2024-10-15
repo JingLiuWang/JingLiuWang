@@ -1,6 +1,7 @@
 <img align="Top" alt="Wallpaper" width="1000" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG0ydzliaGZxZHJhdGowdG90bGZrbzBxMmVicTkybnJpbmhwZnNrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkRQ24mPZ1HvHj9pZ6/giphy.webp">
 
 <h1 align="center" style="color: blue;">Hi 👋, I'm Wang</h1>
+<h2>Mình là sinh viên khóa 28 của trường Huflit</h2>
 <h3 align="center" style="color: blue;">A passionate frontend developer from Vietnam</h3>
 
 - 💬 Ask me about **android**
