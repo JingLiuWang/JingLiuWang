@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left" style="color: blue;">Connect with me:</h3>
-<p align="left"><a href="https://www.youtube.com/c/https://youtu.be/dqw4w9wgxcq?si=v70apfjle-h_xd8j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/dqw4w9wgxcq?si=v70apfjle-h_xd8j" height="30" width="40" /></a></p>
+<p align="left"><a href="[https://www.youtube.com/c/https://youtu.be/dqw4w9wgxcq?si=v70apfjle-h_xd8j](https://youtu.be/dQw4w9WgXcQ?si=dCpGL6ueRocjleUS)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/dqw4w9wgxcq?si=v70apfjle-h_xd8j" height="30" width="40" /></a></p>
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsZGoycmJ1NGU1bDZ1aHgwdzR1bG01bjd2dDJob3htNWNrZnVoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <br></br>
 <h3 align="left" style="color: blue;">Languages and Tools:</h3>
