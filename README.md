@@ -3,8 +3,11 @@
 <h1 align="center" style="color: blue;">Hi 👋, I'm Wang</h1>
 <h3 align="center" style="color: blue;">A passionate frontend developer from Vietnam</h3>
 - Mình là sinh viên khóa 28 của trường Huflit
-<img align="center" alt="Wallpaperlogo" width="40" height="40" src="[![image](https://github.com/user-attachments/assets/e0958208-2247-4383-a580-ddd09a5e3ddf)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuflit.edu.vn%2Fen%2F&psig=AOvVaw2eiLqxtfLix5c1_3icLaYu&ust=1729065113981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj-8dnzj4kDFQAAAAAdAAAAABAu)
-">
+<h3 align="center" style="color: blue;">Welcome to Huflit!</h3>
+<img align="center" alt="Huflit Logo" width="40" height="40" src="https://huflit.edu.vn/logo.png">
+
+
+
 - 💬 Ask me about **android**
 - 📫 How to reach me: **him625526@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
