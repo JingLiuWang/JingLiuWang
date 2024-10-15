@@ -4,7 +4,7 @@
 <h3 align="center" style="color: blue;">A passionate frontend developer from Vietnam</h3>
 - Mình là sinh viên khóa 28 của trường Huflit
 <h3 align="center" style="color: blue;">Welcome to Huflit!</h3>
-<img align="center" alt="Huflit Logo" width="40" height="40" src="https://huflit.edu.vn/logo.png">
+<img align="center" alt="Huflit Logo" width="40" height="40" src="[https://huflit.edu.vn/logo.png](https://rubee.com.vn/wp-content/uploads/2021/05/logo-HUFLIT.png)">
 
 
 
