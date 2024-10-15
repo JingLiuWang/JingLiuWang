@@ -1,10 +1,10 @@
 <img align="Top" alt="Wallpaper" width="1000" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG0ydzliaGZxZHJhdGowdG90bGZrbzBxMmVicTkybnJpbmhwZnNrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkRQ24mPZ1HvHj9pZ6/giphy.webp">
 
 <h1 align="center" style="color: blue;">Hi 👋, I'm Wang</h1>
-<h2>Mình là sinh viên khóa 28 của trường Huflit</h2>
 <h3 align="center" style="color: blue;">A passionate frontend developer from Vietnam</h3>
 - Mình là sinh viên khóa 28 của trường Huflit
-<img align="center" alt="Wallpaperlogo" width="40" height="40" src="https://huflit.edu.vn/wp-content/uploads/2024/03/HUFLIT_Logo_English_Official.png">
+<img align="center" alt="Wallpaperlogo" width="40" height="40" src="![image](https://github.com/user-attachments/assets/e0958208-2247-4383-a580-ddd09a5e3ddf)
+">
 - 💬 Ask me about **android**
 - 📫 How to reach me: **him625526@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
