@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="[![image](https://github.com/user-attachments/assets/74725458-02f8-41f9-9ffa-68365edf4751)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsZGoycmJ1NGU1bDZ1aHgwdzR1bG01bjd2dDJob3htNWNrZnVoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsZGoycmJ1NGU1bDZ1aHgwdzR1bG01bjd2dDJob3htNWNrZnVoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
