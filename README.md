@@ -10,7 +10,7 @@
 <h3 align="left" style="color: blue;">Connect with me:</h3>
 <p align="left"></p>
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsZGoycmJ1NGU1bDZ1aHgwdzR1bG01bjd2dDJob3htNWNrZnVoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-
+<br></br>
 <h3 align="left" style="color: blue;">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
