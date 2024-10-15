@@ -4,7 +4,7 @@
 <h2>Mình là sinh viên khóa 28 của trường Huflit</h2>
 <h3 align="center" style="color: blue;">A passionate frontend developer from Vietnam</h3>
 - Mình là sinh viên khóa 28 của trường Huflit
-<img align="center" alt="Wallpaperlogo" width="40" height="40" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG0ydzliaGZxZHJhdGowdG90bGZrbzBxMmVicTkybnJpbmhwZnNrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkRQ24mPZ1HvHj9pZ6/giphy.webp](https://huflit.edu.vn/wp-content/uploads/2024/03/HUFLIT_Logo_English_Official.png)">
+<img align="center" alt="Wallpaperlogo" width="40" height="40" src="https://huflit.edu.vn/wp-content/uploads/2024/03/HUFLIT_Logo_English_Official.png">
 - 💬 Ask me about **android**
 - 📫 How to reach me: **him625526@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
