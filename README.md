@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/74725458-02f8-41f9-9ffa-68365edf4751)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
